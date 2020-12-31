@@ -14,3 +14,8 @@
 
 - sample5
 - sample6
+
+# github上で追加
+
+- sample7
+- sample8
